@@ -9,6 +9,6 @@
 ---
 
 - find out more on...
-  - 🤖 [Toys(Korean)](https://vlwkaos2.netlify.app/vlwkaos)
+  - 🤖 [Toys(Korean)](https://vlwkaos2.netlify.app)
   - 🌱 [Digital Garden(Korean)](https://vlwkaos.netlify.app)
   - ⌨️ [Blog(Korean)](https://velog.io/@vlwkaos)
