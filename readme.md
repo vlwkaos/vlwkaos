@@ -3,9 +3,10 @@
 - currently...
   - a web front-end developer.
 - interested in...
-  - tech ethics.
-  - software development & computer science in general.
-
+  - tech ethics
+  - HCI(thinking in terms of human factor)
+  - software engineering
+  
 ---
 
 - find out more on...
