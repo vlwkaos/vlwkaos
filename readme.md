@@ -1,6 +1,6 @@
 ## About
 
-- A web developer & a software architect
+- 🍕
 
 ## More on...
 
